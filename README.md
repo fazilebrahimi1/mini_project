@@ -18,7 +18,7 @@ This project analyzes happiness scores by country (2021) and visualizes them in 
 
 ---
 
-## Step 3 — Add, commit, and push the README to GitHub**
+## Add, commit, and push the README to GitHub**
 
 Back in Git Bash:
 
